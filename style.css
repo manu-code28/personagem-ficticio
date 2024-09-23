@@ -1,0 +1,42 @@
+#Bhome{
+    background-color: rgb(242, 181, 224);
+}
+ hr{
+    background-color: aliceblue;
+    height: 3px;
+}
+
+.ain{
+    color: rgb(228, 77, 191);
+}
+
+h1{
+    color: aliceblue;
+}
+
+ #Bsobre{
+    background-color: rgb(163, 227, 230);
+ }
+
+.sma{
+    color: rgba(0, 166, 255, 0.629);
+}
+
+#Bfotos{
+    background-color: rgb(245, 229, 149);
+}
+
+.fa{
+    color: rgb(220, 186, 71);
+}
+
+#animais{
+    color: aliceblue;
+}
+
+h5{
+    background-color: rgb(252, 243, 172);
+    text-align: center;
+    line-height: 3;
+    bottom: 0;
+}
